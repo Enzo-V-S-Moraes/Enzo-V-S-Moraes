@@ -6,7 +6,7 @@
 
 ## Tecnologias e Ferramentas
 <div style = "display: inline_block"><br/>
-    <img align = "center" alt = "C" width = "30px" src = "e">
+    <img align = "center" alt = "C" width = "30px" src = "https://github.com/Enzo-V-S-Moraes/Enzo-V-S-Moraes/blob/master/assets/C.jpg">
     <img align = "center" alt = "javascript" width = "30px" src = "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
     <img align = "center" alt = "Html5" width = "30px" src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     <img align = "center" alt = "css3" width = "30px" src = "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
