@@ -32,3 +32,8 @@
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+## Plataformas de jogos que uso
+<div style = "display: inline_block"><br/>
+    <img align = "center" alt = "BATTLE.NET" src = "https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"> <img align = "center" alt = "EPIC GAMES" src = "https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"> <img align = "center" alt = "ORIGIN" src = "https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white"> <img align = "center" alt = "RIOT GAMES" src = "https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"> <img align = "center" alt = "STEAM" src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> <img align = "center" alt = "XBOX" src = "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
+</div>
