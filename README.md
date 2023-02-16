@@ -2,15 +2,17 @@
 
 <h2> Status Atual </h2>
 
-- 💻 Graduando 3º semestre do curso de Engenharia da Computação no CESUPA.
-- ❤️ Estagiando no CTIC - CESUPA.
-- 🖊️ Adquirindo conhecimentos de TypeScript.
+<ul>
+  <li>💻 Graduando 3º semestre do curso de Engenharia da Computação no CESUPA.
+  <li>❤️ Estagiando no CTIC - CESUPA.
+  <li>🖊️ Adquirindo conhecimentos de TypeScript.
+</ul>
 
 <h2> Tecnologias e Ferramentas </h2>
 
 <div style = "display: inline_block"><br/>
     <img align = "center" alt = "C" height = "30" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align = "center" alt = "C++" height = "30" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+    <img align = "center" alt = "C++" height = "30" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align = "center" alt = "html5" height = "35" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
     <img align = "center" alt = "css3" height = "35" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
     <img align = "center" alt = "arduino" height = "35" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
