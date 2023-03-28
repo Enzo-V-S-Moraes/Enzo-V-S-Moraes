@@ -4,8 +4,8 @@
 
 <ul>
   <li>💻 Graduando 3º semestre do curso de Engenharia da Computação no CESUPA.
-  <li>❤️ Estagiando no CTIC - CESUPA.
-  <li>🖊️ Adquirindo conhecimentos de TypeScript.
+  <li>❤️ Estagiando na Zenith Inova.
+  <li>🖊️ Curso sobre Figma finalizado.
 </ul>
 
 <h2> Tecnologias e Ferramentas </h2>
